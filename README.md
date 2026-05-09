@@ -2,7 +2,7 @@
 
 **Chaotic systems benchmark — KS_Official structural anomaly discovery via inZOR-ND**
 
-Part of the [inZOR-ND](https://github.com/dumitrunovic-svg/inZOR-ND) research platform.
+Part of [inZOR-ND](https://github.com/dumitrunovic-svg/inZOR-ND) — an emergent discovery system.
 
 Submitted to AI-DEEDS 2026 Chaotic Systems Challenge — CTF for Science PR [#20](https://github.com/CTF-for-Science/ctf4science/pull/20)
 
@@ -130,7 +130,7 @@ This repository contains research artifacts: experiment description, dataset ano
 analysis, benchmark configurations, strategy dispatch logic, visualizations, and result
 summaries.
 
-The inZOR-ND engine (biological evolution core, organism dynamics, world memory system)
+The inZOR-ND engine (ecological dynamics core, organism behavior, world memory system)
 is proprietary and not included here.
 
 For methodology questions, contact the author via GitHub.
